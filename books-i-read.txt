@@ -91,4 +91,5 @@
 - Pragmatic Programmer - Andrew Hunt and David Thomas
 - Carrie - Stephen King
 - On Writing: A Memoir of the Craft - Stephen King
+- The Message - Mai Jia
 
