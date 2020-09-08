@@ -88,4 +88,6 @@
 - Neuromancer - William Gibson
 - Wall And Piece - Banksy
 - Drawing on the Right Side of the Brain - Betty Edwards
+- Pragmatic Programmer - Andrew Hunt and David Thomas
+- Carrie - Stephen King
 
