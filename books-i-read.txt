@@ -96,3 +96,6 @@
 - Laura Esquivel - Like Water for Chocolate
 - W. Somerset Maugham - The razor's edge
 - The age of surveillance capitalism
+- Thinking in Systems: A Primer
+- Algorithms To Live By: The Computer Science of Human Decisions
+- How to Win Friends and Influece People
