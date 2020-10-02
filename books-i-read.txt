@@ -99,3 +99,4 @@
 - Thinking in Systems: A Primer
 - Algorithms To Live By: The Computer Science of Human Decisions
 - How to Win Friends and Influece People
+- Hackers: Heroes of the Computer Revolution
