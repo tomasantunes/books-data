@@ -109,3 +109,4 @@
 - How Not to Be Wrong: The Power of Mathematical Thinking - Jordan Ellenberg
 - Factfulness - Hans Rosling
 - Homo Deus - Yuval Noah Harari
+- Range: Why Generalists Triumph in a Specialized World - David Epstein
