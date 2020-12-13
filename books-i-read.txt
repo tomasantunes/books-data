@@ -111,3 +111,4 @@
 - Homo Deus - Yuval Noah Harari
 - Range: Why Generalists Triumph in a Specialized World - David Epstein
 - The Psychology of Computer Programming - Gerald Weinberg
+- Man's Search For Meaning - Viktor Frankl
