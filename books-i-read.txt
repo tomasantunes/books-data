@@ -110,4 +110,4 @@
 - Factfulness - Hans Rosling
 - Homo Deus - Yuval Noah Harari
 - Range: Why Generalists Triumph in a Specialized World - David Epstein
-- The Psychology of Computer Programming - Geral Weinberg
+- The Psychology of Computer Programming - Gerald Weinberg
