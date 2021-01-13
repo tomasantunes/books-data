@@ -113,3 +113,4 @@
 - The Psychology of Computer Programming - Gerald Weinberg
 - Man's Search For Meaning - Viktor Frankl
 - The Intelligent Investor - Benjamin Graham
+- Life in Code - Ellen Ullman
