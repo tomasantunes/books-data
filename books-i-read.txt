@@ -114,3 +114,4 @@
 - Man's Search For Meaning - Viktor Frankl
 - The Intelligent Investor - Benjamin Graham
 - Life in Code - Ellen Ullman
+- Hackers & Painters - Paul Graham
