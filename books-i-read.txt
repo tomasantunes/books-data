@@ -116,3 +116,4 @@
 - Life in Code - Ellen Ullman
 - Hackers & Painters - Paul Graham
 - The Mythical Man-Month - Frederick Brooks
+- The Power of Now - Eckhart Tolle
