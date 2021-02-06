@@ -118,3 +118,4 @@
 - The Mythical Man-Month - Frederick Brooks
 - The Power of Now - Eckhart Tolle
 - The Subtle Art Of Not Giving A F*ck - Mark Manson
+- A Brief History of Time - Stephen Hawking
